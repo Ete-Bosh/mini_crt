@@ -15,7 +15,7 @@ It provides `malloc` and `free` by `sys_brk()`. It uses a linklist of `struct he
 It provieds fundamental file operations like `fopen`, `fclose`,`fwrite`, `fread`, `fseek`.
 
 ### string.c
-It provids fundamental string operations like 'strcpy', 'strcmp', 'strlen'.
+It provids fundamental string operations like `strcpy`, `strcmp`, `strlen`.
 
 
 Build
