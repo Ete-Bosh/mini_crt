@@ -37,4 +37,3 @@ The original codes in the book can **not** run on 64-bit Linux.
 
 3.In the test.c, we need to use `malloc` for the integer `len`.Otherwise, it will not work on writing a integer in the file.
 
-This is the [question](https://stackoverflow.com/questions/78215186/when-i-assigned-a-static-global-pointer-segmentation-fault-occurred?noredirect=1#comment137895688_78215186) I asked when I tried to implement malloc.c. 
